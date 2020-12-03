@@ -1,0 +1,11 @@
+Requirement ID,TestScenarioID,Test Scenario Description,Type of Testing,Possible No. of TestCases,Test Case Details,Test_Case_ID,
+UN-10,TS_SearchCourse1_01,Verify Webpage having search bar and search icon.,UI,3,"1.To verify search bar and search icon option
+",UN_T9,
+,,,,,2.To verify search bar and search icon location,UN-25,
+,,,,,3. Placeholder text should be present,UN-26,
+,TS_SearchCourse1_02,To Verify result when course is available,Functionality,1,Verify result when course is available,UN-10,
+,TS_SearchCourse1_03,To Verify result when course is not available,Functionality,1,Verify result when course is not available,UN-11,
+,TS_SearchCourse1_04,To verify suggestions are redirecting  and course content is available or not,Functionality,1,Verify suggestions are redirecting properly to new webpage,UN-27,
+,TS_SearchCourse1_05,To check search bar history,Functionality,1,Verify previous inputs are present below the search bar,UN-28,
+,TS_SearchCourse1_06,To check whether user can search from result page,Functionality,1,Verify to search again from result page,UN-29,
+,,,,,,,
